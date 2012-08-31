@@ -1,0 +1,1 @@
+This is a silly little thing that checks a Cable Modem Status and returns the current Power Rating. 
